@@ -1,6 +1,6 @@
 # Data Viusalization With Tableau Projects
 
-#### LINK TO TABLEAY PUBLIC ACCOUNT - 'https://public.tableau.com/app/profile/deekshitha.chikkala'
+#### LINK TO TABLEAU PUBLIC ACCOUNT - 'https://public.tableau.com/app/profile/deekshitha.chikkala'
 
 #### PROJECTS : -
 
