@@ -4,7 +4,7 @@
 
 #### PROJECTS : -
 
-1. Amazon Sales Report
+1. Amazon Sales In India
 2. Hollywood Movies Profitable Stories
 3. Indian Primary and Secondary Education
 4. Amazon Prime Video
